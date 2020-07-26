@@ -1,0 +1,14 @@
+dotnet ef database update // update or creates db 
+
+ANgular extensions
+angular2-switcher
+Angular Language Service
+Angular Snippets (Version 9)
+Angular Files
+Auto Rename Tag
+Bracket Pair Colorizer
+Debugger for Chrome
+Material Icon Theme
+Path Intellisense
+Prettier - Code formatter
+TSLint
